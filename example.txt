@@ -1,3 +1,5 @@
-Hello World
-This is a new line
-Gokul is my Name and I am learning Agentic AI
+This is my First File Handling
+This is an Appended Data
+First_one
+Second_one
+Third_one
